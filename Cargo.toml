@@ -1,0 +1,12 @@
+[package]
+name = "fdb-rl"
+version = "0.1.0"
+edition = "2018"
+authors = ["fdb-rs Developers"]
+
+description = "Standin crate for fdb-rl"
+repository = "https://github.com/fdb-rs-experimental/fdb-rl-standin"
+readme = "README.md"
+license = "Apache-2.0"
+
+[dependencies]
